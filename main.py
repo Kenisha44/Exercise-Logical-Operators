@@ -23,3 +23,5 @@ elif not is_magician:
 #   print("at least you are getting there")
 # else: 
 #   print("You need magic powers")
+
+#This is from ZTM Python Course 
